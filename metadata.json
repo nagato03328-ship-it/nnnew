@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix SignBridge AI",
+  "description": "Multilingual sign language translation platform bridging signers and non-signers across ISL, ASL, BSL, JSL, and spoken languages with camera input, voice synthesis, and conversation mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
